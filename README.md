@@ -1,4 +1,4 @@
-[Portfolio](#) • [Writing](#) • [Resume](#) • [LinkedIn](https://www.linkedin.com/in/diego-toribio-096155210/) 
+[Portfolio](#) • [Writing](#) • [Resume](#) 
 
 ### Now
 - researching potential thesis topics
