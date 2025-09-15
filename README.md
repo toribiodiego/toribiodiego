@@ -1,4 +1,4 @@
-[Portfolio](#) • [Writing](#) • [Coursework](https://github.com/toribiodiego/coursework) • [Resume](#) 
+[Portfolio](#) · [Writing](#) · [Coursework](https://github.com/toribiodiego/coursework) · [Resume](#) 
 
 ### Currenlty
 - researching potential thesis topics
